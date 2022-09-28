@@ -1,0 +1,32 @@
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.exe.config
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.exe
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\bin\Debug\RegApp.pdb
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.AssemblyReference.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\MainWindow.g.cs
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\App.g.cs
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp_MarkupCompile.lref
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\MainWindow.baml
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.g.resources
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.Properties.Resources.resources
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.GenerateResource.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.csproj.CoreCompileInputs.cache
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.exe
+C:\Users\x_iv_m\Desktop\proj\proj\RegApp\RegApp\obj\Debug\RegApp.pdb
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\bin\Debug\RegApp.exe.config
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\bin\Debug\RegApp.exe
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\bin\Debug\RegApp.pdb
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.csproj.AssemblyReference.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.csproj.SuggestedBindingRedirects.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\MainWindow.g.cs
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\App.g.cs
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp_MarkupCompile.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp_MarkupCompile.lref
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\MainWindow.baml
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.g.resources
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.Properties.Resources.resources
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.csproj.GenerateResource.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.csproj.CoreCompileInputs.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.exe
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegApp\obj\Debug\RegApp.pdb
