@@ -1,0 +1,8 @@
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\bin\Debug\RegAppAutoTests.exe.config
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\bin\Debug\RegAppAutoTests.exe
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\bin\Debug\RegAppAutoTests.pdb
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\obj\Debug\RegAppAutoTests.csproj.AssemblyReference.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\obj\Debug\RegAppAutoTests.csproj.SuggestedBindingRedirects.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\obj\Debug\RegAppAutoTests.csproj.CoreCompileInputs.cache
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\obj\Debug\RegAppAutoTests.exe
+D:\_МАРИНА\_ОБУЧЕНИЕ\Занятие 13(24.09)\ДЗ\RegAppAutoTests\obj\Debug\RegAppAutoTests.pdb

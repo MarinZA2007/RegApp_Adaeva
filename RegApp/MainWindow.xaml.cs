@@ -27,7 +27,7 @@ namespace RegApp
 
         private void TestButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show(User.TestPassword(PasswordBox.Text), "Информация", MessageBoxButton.OK, MessageBoxImage.Information);
+            TextBox2.Text = User.TestPassword(PasswordBox.Text);
         }
 
 
